@@ -1,0 +1,4 @@
+interface:
+  display_name: "cms-pptx-builder"
+  short_description: "근거 기반 수업용 PPTX를 제작하고 렌더링 검수합니다"
+  default_prompt: "$cms-pptx-builder를 사용하여 근거 기반 한국어 수업용 PPTX를 계획·제작·검수해 주세요."
